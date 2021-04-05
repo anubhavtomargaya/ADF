@@ -1,0 +1,9 @@
+{
+	"name": "anubhavadf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "05f7d362-c22f-4c80-aeff-73dc5a8d395d",
+		"tenantId": "c4660076-1add-4dcc-b926-2140e42ff5a2"
+	}
+}
